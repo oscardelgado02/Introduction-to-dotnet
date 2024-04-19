@@ -1,0 +1,14 @@
+D:\GitRepositories\Learning Projects\Introduction-to-dotnet\Introduction-to-dotnet\bin\Debug\net8.0\Introduction-to-dotnet.exe
+D:\GitRepositories\Learning Projects\Introduction-to-dotnet\Introduction-to-dotnet\bin\Debug\net8.0\Introduction-to-dotnet.deps.json
+D:\GitRepositories\Learning Projects\Introduction-to-dotnet\Introduction-to-dotnet\bin\Debug\net8.0\Introduction-to-dotnet.runtimeconfig.json
+D:\GitRepositories\Learning Projects\Introduction-to-dotnet\Introduction-to-dotnet\bin\Debug\net8.0\Introduction-to-dotnet.dll
+D:\GitRepositories\Learning Projects\Introduction-to-dotnet\Introduction-to-dotnet\bin\Debug\net8.0\Introduction-to-dotnet.pdb
+D:\GitRepositories\Learning Projects\Introduction-to-dotnet\Introduction-to-dotnet\obj\Debug\net8.0\Introduction-to-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitRepositories\Learning Projects\Introduction-to-dotnet\Introduction-to-dotnet\obj\Debug\net8.0\Introduction-to-dotnet.AssemblyInfoInputs.cache
+D:\GitRepositories\Learning Projects\Introduction-to-dotnet\Introduction-to-dotnet\obj\Debug\net8.0\Introduction-to-dotnet.AssemblyInfo.cs
+D:\GitRepositories\Learning Projects\Introduction-to-dotnet\Introduction-to-dotnet\obj\Debug\net8.0\Introduction-to-dotnet.csproj.CoreCompileInputs.cache
+D:\GitRepositories\Learning Projects\Introduction-to-dotnet\Introduction-to-dotnet\obj\Debug\net8.0\Introduction-to-dotnet.dll
+D:\GitRepositories\Learning Projects\Introduction-to-dotnet\Introduction-to-dotnet\obj\Debug\net8.0\refint\Introduction-to-dotnet.dll
+D:\GitRepositories\Learning Projects\Introduction-to-dotnet\Introduction-to-dotnet\obj\Debug\net8.0\Introduction-to-dotnet.pdb
+D:\GitRepositories\Learning Projects\Introduction-to-dotnet\Introduction-to-dotnet\obj\Debug\net8.0\Introduction-to-dotnet.genruntimeconfig.cache
+D:\GitRepositories\Learning Projects\Introduction-to-dotnet\Introduction-to-dotnet\obj\Debug\net8.0\ref\Introduction-to-dotnet.dll
