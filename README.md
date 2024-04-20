@@ -6,6 +6,7 @@ Self-learning project to introduce to .NET with C#.
 
 ## Interesting topics from the course:
 - [Dependency Management](https://learn.microsoft.com/es-es/training/modules/dotnet-dependencies/4-dependency-management)
+- [.NET Debugger in Visual Studio Code](https://learn.microsoft.com/es-es/training/modules/dotnet-debug/3-analyze-your-program-state)
 
 ## Packages used in this project:
 - [Humanizer](https://www.nuget.org/packages/Humanizer)
